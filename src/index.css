@@ -9,4 +9,30 @@ body {
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  line-height: 20px;
+}
+
+.product{
+  padding-bottom: 10px;
+  border-bottom: 2px solid gray
+}
+
+img{
+  float:left;
+  height:150px;
+}
+
+h1 {
+  font-size:23px;
+}
+h4 {
+  color: rgb(190, 8, 8);
+}
+.btn{
+  background-color:rgb(255, 208, 0);
+  outline: none;
+  border:none;
+  height: 25px;
+  width: 100px;
+  font-weight: 700;
 }
